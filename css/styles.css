@@ -68,12 +68,12 @@ p {
 .header-nav {
     display: flex;
     align-items: center;
+    margin-right: 332px;
 }
 
 .nav-list {
     display: flex;
     gap: 40px;
-    margin-right: 332px;
 }
 
 .nav-link {
